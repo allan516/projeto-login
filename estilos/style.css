@@ -60,11 +60,13 @@ div {
 div .centralizacao {
     position: relative;
     bottom: 9px;
+    display: inline;
 }
 
 span {
     position: relative;
     top: -1px;
+    display: inline;
 }
 
 input.btn {
