@@ -64,7 +64,9 @@ div .centralizacao {
 }
 
 span {
+    text-align: inherit;
     position: relative;
+    left: 0px;
     top: -1px;
     display: inline;
 }
